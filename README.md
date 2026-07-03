@@ -9,3 +9,4 @@ This presentation was given at the 2026 Chemometrics and Analytical Chemistry Co
 
 [https://congressos.urv.cat/cac-2026/](https://congressos.urv.cat/cac-2026/)
 
+Here is the presentation: [https://l-ramirez-lopez.github.io/cac-2026-presentation](https://l-ramirez-lopez.github.io/cac-2026-presentation/)
